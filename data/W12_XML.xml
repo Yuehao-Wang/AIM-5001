@@ -16,7 +16,9 @@
 	</book>
 	<book>
 		<title>Software Engineering at Google</title>
-		<authors>Titus Winters, Tom Manshreck, Hyrum Wright</authors>
+		<authors>Titus Winters</authors>
+		<authors>Tom Manshreck</authors>
+		<authors>Hyrum Wright</authors>
 		<price>50.99</price>
 		<discount_price>34.25</discount_price>
 		<publish_date>Feb 28, 2020</publish_date>
