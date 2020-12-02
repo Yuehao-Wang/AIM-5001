@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<books>
+	<book>
+		<title>Python Crash Course, 2nd Edition</title>
+		<authors>
+			<author>Eric Matthes</author>
+		</authors>
+		<price>39.95</price>
+		<discount_price>23.99</discount_price>
+		<publish_date>May 21, 2019</publish_date>
+	</book>
+	<book>
+		<title>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow</title>
+		<authors>
+			<author>Aurélien Géron</author>
+		</authors>
+		<price>63.99</price>
+		<discount_price>37.49</discount_price>
+		<publish_date>Sep 5, 2019</publish_date>
+	</book>
+	<book>
+		<title>Software Engineering at Google</title>
+		<authors>
+			<author>Titus Winters</author>
+			<author>Tom Manshreck</author>
+			<author>Hyrum Wright</author>
+		</authors>
+		<price>50.99</price>
+		<discount_price>34.25</discount_price>
+		<publish_date>Feb 28, 2020</publish_date>
+	</book>
+</books>  
